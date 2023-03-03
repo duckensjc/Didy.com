@@ -1,2 +1,2 @@
-# Didy.com
+# didy.com
 Service plus 
